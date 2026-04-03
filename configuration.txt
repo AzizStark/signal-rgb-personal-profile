@@ -1,0 +1,27 @@
+Global Brightness: 4%
+Layout: 48%
+----
+Volume Boost: 45
+BG color: #000000
+Static Color 1: #F80707
+    Saturation: 100%
+    Brightness: 50%
+Static Color 2: #000BFF
+    Saturation: 100%
+    Brightness: 50%
+Hue Cycling Speed: 0
+Color Style: RandomBeat
+Display Style: ChonkerBars
+Background Color: Static
+Background Beat Flash: Static1
+Fading: 2
+Size of Frequency Display: 160
+Size of Bottom Frequency Line: 0
+Volume Bar (Left) Decay Speed: 100
+Volume Rectangle (Top Right) Decay Speed: 100
+Beat Detection Sensitivity: 49
+Base Bar(Top Left) Decay Speed: 100
+Base Rectangle(Top Left) Decay Speed: 100
+Scale Frequencies By Volume: Disabled
+Frequency Spectrum Width: 100
+Layout Helper (Keypress = Pause): Disabled
